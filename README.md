@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshul Thakur</h1>
-<h3 align="center">Full Stack Developer | Android Developer | AI Enthusiast</h3>
+<h3 align="center">Full Stack Developer AI Enthusiast</h3>
 
 ---
 
